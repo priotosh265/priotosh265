@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! Welcome to my GitHub profile.  
+Welcome to my GitHub profile.  
 🚀 I'm a passionate software developer eager to create amazing projects.  
 💻 Check out my repositories to see what I've been working on.  
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/priotosh-das/)!
